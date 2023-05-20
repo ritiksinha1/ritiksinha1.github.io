@@ -4,7 +4,7 @@ email: ritiksinha1@gmail.com
 description: Studying CS @ UC Berkeley - Passionate about CS, ML, and Education!
 show_downloads: false
 google_analytics: UA-108144808-1
-color-scheme: light
+color-scheme: dark
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

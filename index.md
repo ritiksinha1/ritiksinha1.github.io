@@ -3,8 +3,8 @@ layout: default
 title: About Me
 ---
 # About Me
-**Hello! I'm Ritik Sinha, a rising junior at UC Berkeley studying Computer Science.**
-Outside of coding, I also enjoy doing research exploring pathways for graduation, teaching supplementary sections for CS classes at Berkeley, and mentoring high school students through the college application process.  
+**Hello! I'm Ritik Sinha, a junior at UC Berkeley studying Computer Science.**
+Outside of coding, I also enjoy doing research, teaching CS classes at Berkeley, and mentoring high school students through the college application process.  
 
 
 # Academics
@@ -28,6 +28,7 @@ Outside of coding, I also enjoy doing research exploring pathways for graduation
 
 > **Honors:**
 > * Upsilon Pi Epsilon (CS Honors Society)
+> * Cal Leadership Award
 
 
 # Select Projects
@@ -38,7 +39,7 @@ Outside of coding, I also enjoy doing research exploring pathways for graduation
 
 
 # Teaching
-*   **(Incoming) TA:** I'll be a TA for CS 61A (the intro to CS class at Berkeley) during Summer 2023.
+*   **Teaching Assistant:** I have been a TA for CS 61A (the intro to CS class at Berkeley) during Summer 2023 as well as a course tutor during Fall 2023.
 *   **Computer Science Mentors:** I teach small supplementary sections for CS 61A. As a senior mentor, I've also trained small groups of new mentors.
 *   **College Admissions Mentorship Program:** I'm the president of this club at UC Berkeley that volunteers to help local Berkeley high school students with the college admissions process. I've also taught the Education 197 decal course at UC Berkeley to help train our mentors. 
 *   **Matriculate @ Berkeley:** I serve as a volunteer college counselor for high-achieving, low-income high school students around the nation. I was proud to see my students in this year's cohort matriculate to Cornell University and UC San Diego.
